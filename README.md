@@ -12,11 +12,16 @@ wxservotester.app -> Tools -> ConnectDevice</br>
 4.</br>
 Test your servo motor!</br>
 </br>
+
 ![alt text](https://github.com/GCY/STM32F407-MG996R-AND-GUI-TESTER/blob/master/gui.png?raw=true)
+
 </br>
 </br>
+demo video:
 </br>
+
 [![Audi R8](https://youtu.be/wf9-RlVoMTk/0.jpg)](https://youtu.be/wf9-RlVoMTk)
+
 </br>
 </br>
 Dependency： </br>
