@@ -6,7 +6,7 @@ make STM32F407 project, and burn to board.(0.5ms~2.5ms)</br>
 </br>
 2.</br>
 build GUI</br>
-g++ -o2 -o wxservotester.app wxservotester.cpp serialport.cpp connectargsdlg.cpp `wx-config --cxxflags --libs`</br>
+g++ -o2 -o wxservotester.app wxservotester.cpp serialport.cpp connectargsdlg.cpp \`wx-config --cxxflags --libs\`</br>
 3.</br>
 wxservotester.app -> Tools -> ConnectDevice</br>
 4.</br>
