@@ -12,7 +12,7 @@ wxservotester.app -> Tools -> ConnectDevice</br>
 4.</br>
 Test your servo motor!</br>
 </br>
-![alt text](https://github.com/GCY/STM32F407-MG996R-AND-GUI-TESTER/blob/master/gui.png?raw=true)</br>
+![alt text](https://github.com/GCY/STM32F407-MG996R-AND-GUI-TESTER/blob/master/gui.png?raw=true)
 </br>
 </br>
 </br>
