@@ -20,7 +20,7 @@ Test your servo motor!</br>
 demo video:
 </br>
 
-[![Audi R8](https://youtu.be/wf9-RlVoMTk/0.jpg)](https://youtu.be/wf9-RlVoMTk)
+[![Audi R8](http://img.youtube.com/vi/wf9-RlVoMTk/0.jpg)](https://youtu.be/wf9-RlVoMTk)
 
 </br>
 </br>
